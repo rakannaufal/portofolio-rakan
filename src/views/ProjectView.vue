@@ -1,7 +1,7 @@
 <template>
   <div>
     <section class="project" id="project">
-      <h2><span>Project</span>Saya</h2>
+      <h2><span>Projects</span>Saya</h2>
       <p>Berikut adalah beberapa project yang pernah saya kerjakan.</p>
       <div class="row">
         <div class="project-card">
@@ -10,6 +10,10 @@
           </div>
           <div class="project-content">
             <h3>Aplikasi Kopi Sejuk</h3>
+            <p>
+              Aplikasi ini dibuat dalam rangka belajar PHP untuk mempermudah
+              karyawan Cafe dalam bekerja.
+            </p>
           </div>
         </div>
         <div class="project-card">
@@ -18,6 +22,10 @@
           </div>
           <div class="project-content">
             <h3>Aplikasi Laundry Cepat</h3>
+            <p>
+              Aplikasi ini dibuat dalam rangka belajar PHP dan untuk mempermudah
+              karyawan Laundry dalam bekerja.
+            </p>
           </div>
         </div>
       </div>

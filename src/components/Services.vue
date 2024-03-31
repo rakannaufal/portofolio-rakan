@@ -9,7 +9,7 @@
       <div class="row">
         <div class="services-card">
           <img
-            src="../assets/img/menu/1.png"
+            src="../assets/img/services/1.png"
             alt="Kopi Manis"
             class="services-card-image"
           />
@@ -17,7 +17,7 @@
         </div>
         <div class="services-card">
           <img
-            src="../assets/img/menu/2.png"
+            src="../assets/img/services/2.png"
             alt="Kopi Manis"
             class="services-card-image"
           />
@@ -25,7 +25,7 @@
         </div>
         <div class="services-card">
           <img
-            src="../assets/img/menu/3.png"
+            src="../assets/img/services/3.png"
             alt="Kopi Manis"
             class="services-card-image"
           />
@@ -33,7 +33,7 @@
         </div>
         <div class="services-card">
           <img
-            src="../assets/img/menu/4.png"
+            src="../assets/img/services/4.png"
             alt="Kopi Manis"
             class="services-card-image"
           />
@@ -41,7 +41,7 @@
         </div>
         <div class="services-card">
           <img
-            src="../assets/img/menu/5.png"
+            src="../assets/img/services/5.png"
             alt="Kopi Manis"
             class="services-card-image"
           />
@@ -49,7 +49,7 @@
         </div>
         <div class="services-card">
           <img
-            src="../assets/img/menu/6.png"
+            src="../assets/img/services/6.png"
             alt="Kopi Manis"
             class="services-card-image"
           />

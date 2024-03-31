@@ -6,7 +6,7 @@
       <div class="row">
         <div class="project-card">
           <div class="project-image">
-            <img src="../assets/img/products/2.png" />
+            <img src="../assets/img/projects/2.png" />
           </div>
           <div class="project-content">
             <h3>Aplikasi Kopi Sejuk</h3>
@@ -14,7 +14,7 @@
         </div>
         <div class="project-card">
           <div class="project-image">
-            <img src="../assets/img/products/4.png" />
+            <img src="../assets/img/projects/4.png" />
           </div>
           <div class="project-content">
             <h3>Aplikasi Laundry Cepat</h3>

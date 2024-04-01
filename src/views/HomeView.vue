@@ -8,7 +8,8 @@
           functional websites. I am also a Informatic Engineering student,
           combining technical and creative skills.
         </p>
-        <a href="#contact" class="cta">Hire Me </a>
+        <!-- <a href="#contact" class="cta">Hire Me </a> -->
+        <buttonc />
       </main>
     </section>
   </div>
@@ -88,14 +89,8 @@ h1 {
   font-weight: 300;
   text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5);
 }
-.hero .content .cta {
-  margin-top: 1rem;
-  display: inline-block;
-  padding: 1rem 3rem;
-  font-size: 1.4rem;
-  color: #fff;
-  background-color: var(--primary);
-  border-radius: 0.5rem;
-  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-}
 </style>
+
+<script setup>
+import buttonc from "../components/Button.vue";
+</script>

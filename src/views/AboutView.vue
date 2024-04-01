@@ -83,7 +83,7 @@
 }
 
 .about .content p {
-  color: #fff;
+  color: #000000;
   margin-bottom: 0.8rem;
   font-weight: 700;
   font-size: 0.8rem;

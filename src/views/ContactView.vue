@@ -1,7 +1,7 @@
 <template>
   <div>
     <section id="contact" class="contact">
-      <h2><span>Kontak</span>Saya</h2>
+      <h2><span>Contact</span>Saya</h2>
       <p>Tertarik untuk menghire saya? silahkan hubungi saya.</p>
       <p>Mari bekerja sama!</p>
       <div class="row">

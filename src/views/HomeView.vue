@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero" id="home">
+    <section class="home" id="home">
       <main class="content">
         <h1>I'm M <span> Rakan </span> Naufal</h1>
         <p>
@@ -8,7 +8,6 @@
           functional websites. I am also a Informatic Engineering student,
           combining technical and creative skills.
         </p>
-        <!-- <a href="#contact" class="cta">Hire Me </a> -->
         <buttonc />
       </main>
     </section>
@@ -44,7 +43,7 @@ h1 {
     border-color: var(--primary);
   }
 }
-.hero {
+.home {
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -54,7 +53,7 @@ h1 {
   position: relative;
 }
 
-.hero::after {
+.home::after {
   content: "";
   display: block;
   position: absolute;
@@ -67,26 +66,27 @@ h1 {
     rgba(217, 217, 217, 0) 40%
   );
 }
-.hero .content {
+.home .content {
   padding: 1.4rem 7%;
   max-width: 60rem;
 }
-.hero .content h1 {
+.home .content h1 {
   font-size: 4.5em;
   color: #fff;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
   line-height: 1.2;
 }
 
-.hero .content h1 span {
+.home .content h1 span {
   color: var(--primary);
 }
 
-.hero .content p {
+.home .content p {
   font-size: 1.4rem;
   margin-top: 1rem;
   line-height: 1.4;
   font-weight: 300;
+  color: #fff;
   text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5);
 }
 </style>

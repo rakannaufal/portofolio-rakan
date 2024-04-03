@@ -4,6 +4,7 @@
       <div class="socials">
         <a href="#"
           ><svg
+            fill="#fff"
             xmlns="http://www.w3.org/2000/svg"
             height="32"
             width="32"
@@ -16,6 +17,7 @@
         </a>
         <a href="#"
           ><svg
+            fill="#fff"
             xmlns="http://www.w3.org/2000/svg"
             height="32"
             width="32"
@@ -71,6 +73,7 @@ footer .links a {
 
 footer .credit {
   font-size: 1rem;
+  color: #fff;
 }
 
 footer .credit a {

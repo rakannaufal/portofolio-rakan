@@ -1,7 +1,7 @@
 <template>
   <div>
     <section id="about" class="about">
-      <h2><span>Tentang</span>Saya</h2>
+      <h2><span>About</span>Saya</h2>
       <div class="row">
         <div class="about-img">
           <img

@@ -1,6 +1,6 @@
 # portoku
 
-This template should help get you started developing with Vue 3 in Vite.
+Ini adalah sebuah website portofolio
 
 ## Recommended IDE Setup
 
@@ -27,4 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
 # portofolio-rakan
+
+# portofolio-rakan
+# portoku
